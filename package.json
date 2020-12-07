@@ -1,7 +1,7 @@
 {
   "name": "@wangkaixuan/intro-npm",
   "version": "1.1.0",
-  "description": "My first public npm package project.Simplest NPM package (no dependencies on third-party packages)",
+  "description": "My first public npm package project. Simplest NPM package (no dependencies on third-party packages)",
   "main": "index.js",
   "scripts": {
     "test": "node index.test.js"

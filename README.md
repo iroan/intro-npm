@@ -1,3 +1,5 @@
+My first public npm package project. Simplest NPM package (no dependencies on third-party packages.
+
 # project structure:
 ```
 ➜  intro-npm git:(main) ✗ tree 
