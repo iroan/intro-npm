@@ -1,0 +1,26 @@
+{
+  "name": "@wangkaixuan/intro-npm",
+  "version": "1.0.0",
+  "description": "my first public npm package project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iroan/intro-npm.git"
+  },
+  "keywords": [
+    "wangkaixuan",
+    "iroan",
+    "intro",
+    "npm",
+    "node"
+  ],
+  "author": "wangkaixuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iroan/intro-npm/issues"
+  },
+  "homepage": "https://github.com/iroan/intro-npm#readme"
+}
