@@ -1,3 +1,3 @@
-module.exports.wangkaixuanSay = function(){
-    return 'this is my first time use npm to publish package';
+module.exports.add = function (a, b) {
+    return a + b;
 }
